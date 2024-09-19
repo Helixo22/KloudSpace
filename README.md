@@ -7,14 +7,9 @@
 ## Key Features 🔑
 
 - **Effortless Access**: Sign up or log in, and your cloud environment is ready to go in seconds! No configuration needed.
-- **Scalable & Secure**: Whether you're storing a few files or managing large-scale applications, Kloudspace adapts to your needs while keeping your data safe.
+- **Scalable & Secure**: Whether you're storing a few files, Kloudspace adapts to your needs while keeping your data safe.
 - **Fully Managed Cloud Databases**: Store your data in our highly available, scalable databases, with automatic backups and no manual maintenance required.
 
-## What You Get 🎁
-
-- **Cloud at Your Fingertips**: Create, manage, and store your data seamlessly on the cloud without hassle.
-- **Automatic Backups**: We take care of your data with automatic backups, so you don't have to worry about losing important files.
-- **Integrated Services**: Use Kloudspace as a foundation for your apps with our easily integrated services.
 
 ## How to Get Started 🏁
 
@@ -25,6 +20,7 @@
 ## ⚠️ Disclaimer
 
 **Kloudspace is a project and not a fully supported application or company.** This means the platform may be unstable or taken down at any time. It serves as a demonstration and should not be relied upon for critical use cases.
+(the creator assumes no responsibility for file loss or instability)
 
 ---
 
